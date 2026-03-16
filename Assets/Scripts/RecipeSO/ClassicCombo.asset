@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b148a87a9fa7a544ca77eaf40ca9743a, type: 3}
+  m_Name: ClassicCombo
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 974dd4a51e8c3f249b709b43bdb1639a, type: 2}
+  - {fileID: 11400000, guid: 0d1cb8c821e51c54386f9fa7014d19c1, type: 2}
+  - {fileID: 11400000, guid: cee483e59cdbac7498e647a4a19ce642, type: 2}
+  - {fileID: 11400000, guid: 09ca20d1220c8f040b74fc9ef94dd316, type: 2}
+  - {fileID: 11400000, guid: e86ec032923f44481bc35c6a43513329, type: 2}
+  - {fileID: 11400000, guid: 74303c1e16d72c5488e6d38f7010ce8e, type: 2}
+  - {fileID: 11400000, guid: d85bdb1788a7444fbbb1d883e5f04ef4, type: 2}
+  recipeName: ClassicCombo

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5138c9ce6f2f5140ab0a2e76e0e3da5, type: 3}
+  m_Name: Onion
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3812876574508226176, guid: 4edca926a3d26a44ea6e36fb789bb3a3, type: 3}
+  sprite: {fileID: -1346103912, guid: d0931884b45e3e64989c476bc27a916f, type: 3}
+  objectname: Onion
